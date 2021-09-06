@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "682046752929",
+    "project_id": "pruebafb-3d9f8",
+    "storage_bucket": "pruebafb-3d9f8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:682046752929:android:fc7e97c3a8ab6100cbc8e0",
+        "android_client_info": {
+          "package_name": "com.example.facebook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "682046752929-uprhtlkdsm9u7vqkrr0u8uqnho4uf5s6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.facebook",
+            "certificate_hash": "1661b20e2a96ae024ee334f714808eab7f5275f0"
+          }
+        },
+        {
+          "client_id": "682046752929-dbc9m521kqnu1ig2sgmn6gdndf42rdoc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwEkxj_6GVNTk4JeJeHyY547BM94Yr70o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "682046752929-dbc9m521kqnu1ig2sgmn6gdndf42rdoc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
